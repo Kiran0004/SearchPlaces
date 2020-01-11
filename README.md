@@ -1,4 +1,4 @@
-Search NearBy
+Search Places
 
 This project allows you to search for places in your current location using Foursquare Places API. 
 
